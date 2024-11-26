@@ -79,6 +79,15 @@ I'll provide several realistic automation tasks that are commonly asked in inter
 - Verify unique items
 - Return to top of page
 
+11.
+Open the webpage https://bonigarcia.dev/selenium-webdriver-java/infinite-scroll.html
+
+Find the count of paras in the page. Use Assert to match with expected count
+
+Now scroll down till 5 times and each time get the para count 
+
+So after 5 times scrolling , the para count should be 20 added each time
+
 These tasks test important automation concepts like:
 - Page navigation and interaction
 - Dynamic element handling
